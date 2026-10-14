@@ -1,6 +1,6 @@
 ### Hi, I'm Luis 👋
 
-Physicist and MSc candidate in astrophysics at UNAM. I build data and AI solutions in Python and SQL, from data pipelines and dashboards to LLM applications, and I care about proving that they work: every project below comes with its numbers, and most with tests.
+Physicist with an MSc in astrophysics from UNAM. I build data and AI solutions in Python and SQL, from data pipelines and dashboards to LLM applications, and I care about proving that they work: every project below comes with its numbers, and most with tests.
 
 ```text
 LQ-BIOS v1.9.98 ... OK
