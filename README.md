@@ -10,6 +10,8 @@ MOUNTING /universe ... OK
 
 **[Portfolio](https://lobby9000.github.io)** · **[Recruiter view](https://lobby9000.github.io/cv.html)** · **[CV (PDF)](https://lobby9000.github.io/assets/cv/CV_Luis_Angel_Quiroz_Lopez_EN.pdf)** · **[LinkedIn](https://www.linkedin.com/in/llqq)**
 
+Most of these projects also run as small demos on my site: open the [Command Prompt](https://lobby9000.github.io/professional.html?app=terminal) and type `demos`.
+
 #### Selected work
 
 | Project | What it shows |
