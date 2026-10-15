@@ -1,6 +1,6 @@
 ### Hi, I'm Luis 👋
 
-Physicist with an MSc in astrophysics from UNAM. I build data and AI solutions in Python and SQL, from data pipelines and dashboards to LLM applications, and I care about proving that they work: every project below comes with its numbers, and most with tests.
+Physicist with an MSc in astrophysics from UNAM. I build data and AI solutions in Python and SQL, from data pipelines and dashboards to LLM applications, and I care about proving that they work: every finished project below comes with its numbers, and most with tests.
 
 ```text
 LQ-BIOS v1.9.98 ... OK
@@ -16,6 +16,7 @@ Most of these projects also run as small demos on my site: open the [Command Pro
 
 | Project | What it shows |
 |---|---|
+| [reward-hacking-gsm8k](https://github.com/lobby9000/reward-hacking-gsm8k) | SFT, DPO and GRPO written from scratch in PyTorch to build two small model organisms of reward hacking on GSM8K: a grader that also pays the answer the user suggested, and one that pays hedged answers. Reasoning monitors, paired control runs and hypotheses written before any GPU run. Experiments in progress |
 | [incentive-comp-qa](https://github.com/lobby9000/incentive-comp-qa) | A full QA cycle on a sales-commission REST API, from written requirements to release: 92 risk-based test cases, 8 defects found in the first build and all 750 payouts reconciled against an independent Excel model ([case study](https://lobby9000.github.io/qa-case-study.html)) |
 | [vigia](https://github.com/lobby9000/vigia) | Stability monitoring for a set of services: Spring Boot ingestion, a Flask analytics API and a Django back office over PostgreSQL and MongoDB, with a Monte Carlo calibration that cut false alarms from 18 to 1 without missing an incident |
 | [macd-toolkit](https://github.com/lobby9000/macd-toolkit) | EMA, MACD and RSI from first principles, cross-validated against a 3,815-formula Excel model to within 5 × 10⁻¹³ and run over 35 Mexican equities |
